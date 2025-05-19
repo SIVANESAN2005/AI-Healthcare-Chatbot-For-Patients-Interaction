@@ -1,0 +1,8 @@
+User_Query,Extracted_Symptoms,Condition_Response,Heart_Rate,Temperature,Steps_Today,IoT_Analysis
+I have a headache,headache,"This could be due to stress, dehydration, or vision problems. Try to rest and drink water.",85,98.6,3000,Your vital signs are within a normal range.
+I feel very tired today,fatigue,"Could be caused by stress, lack of sleep, or a vitamin deficiency. Get enough rest.",72,98.0,1500,You've taken fewer steps today. Try to stay more active.
+My chest hurts,chest pain,"This might be serious. If it persists or is severe, seek emergency care immediately.",110,99.2,3200,Your heart rate is elevated. Are you feeling stressed or anxious?
+I think I have a fever,fever,You might have an infection or the flu. Monitor your temperature and stay hydrated.,90,101.4,2500,Your temperature is above normal. You may have a fever.
+I'm coughing a lot,cough,Persistent coughs may indicate respiratory infections. Rest and see a doctor if it continues.,80,98.7,4000,Your vital signs are within a normal range.
+I’m short of breath,shortness of breath,This may indicate an issue with the lungs or heart. Please consult a physician.,105,99.1,1800,Your heart rate is elevated. Are you feeling stressed or anxious?
+I feel fine today,,"I'm sorry, I couldn't identify your symptoms. Could you describe it differently?",75,98.3,8000,Your vital signs are within a normal range.
